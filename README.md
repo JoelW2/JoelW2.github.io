@@ -23,9 +23,9 @@
       </ul>
     </div>
     
-    <div id="entry1">
-      <h2>Toddler sues airline company for unethical treatment</h2>
-    </div>
+   <div id="entry1">
+     <h2>Toddler sues airline company for unethical treatment</h2>
+   </div>
   
   </body>
 </html>
