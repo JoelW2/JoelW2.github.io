@@ -12,6 +12,9 @@
         line-height: 1.5;
         size: 100px;
       }
+      body {
+        background-color: black:
+      }
       p {
         font-family: monospace;
         /*background-color: black;*/
