@@ -15,6 +15,7 @@
       body {
         font-family: monospace;
         /*background-color: black;*/
+      }
       ul {
         list-style-type: none;
       }
