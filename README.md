@@ -9,6 +9,7 @@
         font-family: monospace;
         }
       h1 {
+        line-height: 4;
         size: 100px;
       }
       ul {
