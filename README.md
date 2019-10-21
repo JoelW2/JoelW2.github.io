@@ -15,6 +15,9 @@
       ul {
         list-style-type: none;
       }
+      .spank {
+        font-style: italics;
+      }
     </style>
   </head>
   <body>
