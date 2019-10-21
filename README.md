@@ -8,6 +8,9 @@
         text-align: center;
         font-family: monospace;
         }
+      h1 {
+        size: 100px;
+      }
       ul {
         list-style-type: none;
       }
@@ -24,7 +27,7 @@
     </div>
     
    <div id="entry1">
-     <h2>Toddler sues airline company for unethical treatment</h2>
+     <h2></h2>
    </div>
   
   </body>
