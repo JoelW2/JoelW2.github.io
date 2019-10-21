@@ -28,7 +28,7 @@
     </div>
     
    <div id="entry1">
-     <h2></h2>
+     <p>Congratulations. You have successfully navigated to the location of the classified Claudius equations. Share these with no one. If you do, thousands will come after you. And they will find you. You have been warned. Toodle-doo!</p>
    </div>
   
   </body>
