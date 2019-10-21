@@ -40,6 +40,6 @@
    
    <div id="images">
     <img src="IMG_20191009_192803.jpg">
-   </div>
+   </div> 
   </body>
 </html>
