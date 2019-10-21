@@ -7,7 +7,7 @@
       #info {
         text-align: center;
         font-family: monospace;
-        }
+      }
       h1 {
         line-height: 1.5;
         size: 100px;
