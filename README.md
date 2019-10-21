@@ -16,7 +16,7 @@
         list-style-type: none;
       }
       .spank {
-        font-style: italics;
+        font-style: italic;
       }
     </style>
   </head>
