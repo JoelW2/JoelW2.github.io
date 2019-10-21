@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+
 <html>
   <head>
     <title>Project: Claudius</title>
@@ -8,6 +8,8 @@
         text-align: center;
         font-family: monospace;
         }
+      ul {
+        list-style-type: none;
     </style>
   </head>
   <body>
