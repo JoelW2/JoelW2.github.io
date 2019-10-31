@@ -38,7 +38,7 @@
     </div>
     
    <div id="entry1">
-     <p>Congratulations. You have successfully navigated to the location of the classified <span class="spank">Claudius</span>      equations. Share these with no one. If you do, thousands will come after you. And they will find you. You have been warned. Toodle-doo!</p>
+     <p>Congratulations. You have successfully navigated to the location of the classified <span class="spank">Claudius</span>      equations. Share these with no one. If you do, thousands will come after you. And they will find you. You have been warned. </p>
    </div>
    
    <div id="images">
