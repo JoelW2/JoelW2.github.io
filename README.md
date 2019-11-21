@@ -27,6 +27,9 @@
       .spank {
         font-style: italic;
       }
+      #Secone {
+        text-align: center;
+      }
     </style>
   </head>
   <body>
