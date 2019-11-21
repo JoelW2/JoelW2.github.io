@@ -45,7 +45,7 @@
    
    <div id="Secone">
       <h2>Section One</h2>
-      <p>Transcripts from the 
+      <p>Photos from the Extremis project</p>
       <div id="eq-images">
         <img src="IMG_20191009_192803.jpg">
         <img src="IMG_20191009_192815.jpg">
