@@ -28,7 +28,7 @@
         font-style: italic;
       }
       #Secone {
-        text-align: center;
+        text-align: center; 
       }
     </style>
   </head>
